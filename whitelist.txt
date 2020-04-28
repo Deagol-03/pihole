@@ -1,4 +1,4 @@
-#Magenta_TV
+#Magenta-TV
 accounts.login.idm.telekom.com
 login.idm.telekom.com
 
