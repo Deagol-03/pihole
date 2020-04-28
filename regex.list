@@ -15,11 +15,8 @@ track(ers?|ing)?
 traff(ic)?
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
 #^(.+\.)?amp\..+\.com$
-#eigene
-Eintraege
-##Nicht
-Vertrauenwuerdige
-TLD's
+#eigene_Eintraege
+##Nicht_vertrauenswuerdige_TLD's
 \.(co|ru|cn|in|vn|qa)$
 ##Jugendschutz
 \.(gay|porn|sexy?|xxx|webcam|cam|tube|adult)$
