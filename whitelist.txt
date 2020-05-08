@@ -15,11 +15,10 @@ tracking-protection.cdn.mozilla.net
 #PS4
 account.np.ac.playstation.net
 accounts.ea.com
+ems-delivery.api.playstation.com
 accounts.idmapper.api.playstation.com
 account-public-service-prod.ak.epicgames.com
 account-public-service-prod.ol.epicgames.com
-commerce.api.np.km.playstation.net
-commerce1.api.np.km.playstation.net
 
 #Google Account
 accounts.google.com
