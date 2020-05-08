@@ -3,7 +3,7 @@ adim(age|g)s?
 adtrack(ers?|ing)?
 advert(s|is(ing|ements?))
 aff(iliat(es?|ion))
-ampproject
+#ampproject
 analytics?
 banners?
 beacons?
@@ -14,7 +14,7 @@ telemetry
 track(ers?|ing)?
 traff(ic)?
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
-^(.+\.)?amp\..+\.com$
+#^(.+\.)?amp\..+\.com$
 #eigene_Eintraege
 ##Nicht_vertrauenswuerdige_TLD's
 \.(co|ru|cn|in|vn|qa)$
