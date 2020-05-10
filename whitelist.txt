@@ -1,10 +1,10 @@
-#Magenta_TV
+#Magenta TV
 accounts.login.idm.telekom.com
 login.idm.telekom.com
-#Samsung_Galaxy_S8_und_S8+_Virenscanner
+#Samsung Galaxy S8 und S8+ Virenscanner
 mup.amp.mcafee.com
 mmfiles.amp.mcafee.com
-#Samsung_Update-Server_(Smartphone)
+#Samsung Update-Server (Smartphone)
 dms.ospserver.net
 #Firefox
 tracking-protection.cdn.mozilla.net
@@ -15,7 +15,7 @@ ems-delivery.api.playstation.com
 accounts.idmapper.api.playstation.com
 account-public-service-prod.ak.epicgames.com
 account-public-service-prod.ol.epicgames.com
-#Google_Account
+#Google Account
 accounts.google.com
 accounts.google.de
 mail.google.com
