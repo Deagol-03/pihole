@@ -19,7 +19,7 @@ account-public-service-prod.ol.epicgames.com
 accounts.google.com
 accounts.google.de
 mail.google.com
-#### Windows10 ####
+#### Windows10 Login/Update ####
 login.windows.net
 download.windowsupdate.com
 definitionupdates.microsoft.com
