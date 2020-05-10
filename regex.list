@@ -15,13 +15,13 @@ track(ers?|ing)?
 traff(ic)?
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
 ^(.+\.)?amp\..+\.com$
-#eigene Eintraege
-##Nicht vertrauenswuerdige TLD's
+# eigene Eintraege
+# Nicht vertrauenswuerdige TLD's
 \.(co|ru|cn|in|vn|qa)$
-##Jugendschutz
+# Jugendschutz
 \.(gay|porn|sexy?|xxx|webcam|cam|tube|adult)$
 \.(casino|bet|link|poker)$
-##Sonstige
+# Sonstige
 \.fritz.box$
 (xhamster|alexa|sendgrid|skype|cortana|wpad|xn--)
 (graph|eventcom|samsunghealth|tegrazone|firebase|doubleclick)
