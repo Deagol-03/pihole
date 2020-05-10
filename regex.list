@@ -25,4 +25,3 @@ track(ers?|ing)?
 traff(ic)?
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
 ^(.+\.)?amp\..+\.com$
-
