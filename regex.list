@@ -1,27 +1,27 @@
-#### eigene Eintraege ####
-\.fritz.box$
-(xhamster|alexa|sendgrid|skype|cortana|wpad|xn--)
-(graph|eventcom|samsunghealth|tegrazone|firebase|doubleclick)
-#### Nicht vertrauenswuerdige TLD's ####
-\.(co|ru|cn|in|vn|qa)$
-#### Jugendschutz ####
-\.(gay|porn|sexy?|xxx|webcam|cam|tube|adult)$
-\.(casino|bet|link|poker)$
-#### Sonstige ####
-adse?rv(er?|ice)?s?
 adim(age|g)s?
+adse?rv(er?|ice)?s?
 adtrack(ers?|ing)?
 advert(s|is(ing|ements?))
 aff(iliat(es?|ion))
-ampproject
+^(.+[_.-])?amp(project)?\.
 analytics?
 banners?
 beacons?
+\.(casino|bet|link|poker)$
+\.(co|ru|cn|in|vn|qa|ly|io)$
 count(ers?|ing)?
+^(.+[_.-])?dnsdelegation\.io$
+^(.+[_.-])?eulerian\.net$
+^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$
+\.fritz.box$
+\.(gay|porn|sexy?|xxx|webcam|cam|tube|adult)$
+(graph|eventcom|samsunghealth|samsungcloud|tegrazone|firebase|doubleclick|yimg)
+(instagram|twitter)
+^mads\.
 pixels?
 stat(s|istics?)
 telemetry
 track(ers?|ing)?
 traff(ic)?
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
-^(.+\.)?amp\..+\.com$
+(xhamster|alexa|sendgrid|skype|cortana|wpad|xn--)
