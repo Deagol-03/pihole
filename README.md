@@ -1,3 +1,3 @@
-# pihole
-Meine angepassten Listen von Sempervideo https://github.com/RPiList/specials
+# Pi-Hole
+Meine angepassten Listen von Sempervideo (https://github.com/RPiList/specials) für den Pi-Hole.
 
