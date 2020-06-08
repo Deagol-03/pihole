@@ -12,7 +12,7 @@ beacons?
 count(ers?|ing)?
 ^(.+[_.-])?dnsdelegation\.io$
 ^(.+[_.-])?eulerian\.net$
-^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)\.[^.]+$
+^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)
 \.fritz.box$
 \.(gay|porn|sexy?|xxx|webcam|cam|tube|adult)$
 (graph|eventcom|samsunghealth|samsungcloud|tegrazone|firebase|doubleclick|yimg)
