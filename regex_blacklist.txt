@@ -8,9 +8,10 @@ analytics?
 banners?
 beacons?
 \.(casino|bet|link|poker)$
-\.(co|ru|cn|in|vn|qa|ly|cr|top)$
+\.(co|ru|su|cn|in|vn|qa|ly|cr|top)$
 count(ers?|ing)?
 ^(.+[_.-])?dnsdelegation\.io$
+duckdns
 ^(.+[_.-])?eulerian\.net$
 ^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)
 \.fritz.box$
