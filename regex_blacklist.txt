@@ -24,5 +24,6 @@ stat(s|istics?)
 telemetry
 track(ers?|ing)?
 traff(ic)?
+^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
 (xhamster|alexa|sendgrid|skype|cortana|wpad|xn--)
