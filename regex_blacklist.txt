@@ -16,6 +16,7 @@ count(ers?|ing)?
 ^(.+[_.-])?(facebook|fb(cdn|sbx)?|tfbnw)
 \.fritz.box$
 \.(gay|porn|sexy?|xxx|webcam|cam|tube|adult)$
+genesis.mu
 (graph|eventcom|samsunghealth|samsungcloud|tegrazone|firebase|doubleclick|yimg)
 instagram
 ^mads\.
