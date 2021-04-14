@@ -34047,6 +34047,18 @@ yybx.oss-cn-hangzhou.aliyuncs.com
 z.nowscore.com
 zt2088.com
 ztyumn.ifeng.com
+ad.10010.com
+ad.abchina.com
+ad.kazakinfo.com
+ad.ourgame.com
+adcdn.pingan.com
+advert.kf5.com
+api.ads.tvb.com
+app-advertise.zhihuishu.com
+buyad.bi-xenon.cn
+captcha.su.baidu.com
+img.ads.tvb.com
+newad.mail.wo.cn
 3336672.com
 3337729.com
 3337751.com
@@ -36515,4 +36527,7 @@ tools.runetki.co
 a4.overclockers.ua
 novunu.football-plyus.net
 
-@@dnsotls-ds.metric.gstatic.com
+email.awscloud.com
+guce.advertising.com
+dnsotls-ds.metric.gstatic.com
+ads.tdbank.com
