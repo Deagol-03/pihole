@@ -1,2 +1,3 @@
 d2pezc1a2cl20m.cloudfront.net
 d2ucfwpxlh3zh3.cloudfront.net
+metrics.mzstatic.com
