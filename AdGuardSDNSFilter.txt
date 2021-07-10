@@ -1,3 +1,11 @@
+faster-trk.com
+embogsoarers.com
+rozumotterer.com
+xpbbyiqbcawamy.com
+ipmbnqqaon.com
+nkwintenc.biz
+jarvispopsu.com
+viamariller.com
 ad4point.nyc3.digitaloceanspaces.com
 rawirymi.xyz
 armiesgaspclue.com
@@ -2829,6 +2837,7 @@ ad.juksy.com
 hbplatform.com
 affiliate.k4.tinhte.vn
 delivery.senvangvn.com
+
 .n.2.1.js
 .n.2.1.l60.js
 .1.1.1.l80.js
@@ -17197,6 +17206,8 @@ criteo.net
 appodeal.com
 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 a.76674bdad304297eda3d325f449f6f49.com
+geoloc.yospace.com
+video-ads-module.ad-tech.nbcuni.com
 banner.hpmdnetwork.ru
 hybrid.ai
 ad.auditude.com
@@ -17775,6 +17786,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+analytics.chase.com
+scripttags.jst.ai
 trace21.dsb-ebusiness.com
 a.ddli.jp
 b92.yahoo.co.jp
@@ -23698,7 +23711,6 @@ ablsrv.com
 abtrcking.com
 abtshield.com
 accdab.net
-acceptableserver.com
 acsbap.com
 acuityplatform.com
 acxiomapac.com
@@ -23809,7 +23821,6 @@ cdnanalytics.xyz
 cdnmaster.com
 cdnopw.com
 cformanalytics.com
-chickensaladandads.com
 cintnetworks.com
 clearbitjs.com
 clickbrainiacs.com
@@ -23970,7 +23981,6 @@ hsadspixel.net
 hscta.net
 hudb.pl
 humanpresence.app
-i401xox.com
 iaudienc.com
 ifvox.com
 impactradius-event.com
@@ -24053,7 +24063,6 @@ m-t.io
 m0mentum.net
 m365log.com
 mabipa.com
-macandcheeseandads.com
 magnuum.com
 marketperf.com
 marketshot.com
@@ -24313,7 +24322,6 @@ tgtag.io
 theagency.com
 theardent.group
 thehairofcaptainpicard.com
-thingswontend.com
 thinktot.com
 threat-analytics.com
 tnctrx.com
@@ -24573,13 +24581,11 @@ bmcm.pw
 bmnr.pw
 bmst.pw
 browsermine.com
-byebye.ml
 candid.zone
 cdn-code.host
 chmproxy.bid
 clgserv.pro
 cloud-miner.eu
-cloudcoins.co
 cloudflareinsights.com
 cnhv.co
 coinhiveproxy.com
@@ -24589,7 +24595,6 @@ coinminerz.com
 coinminingonline.com
 coinwebmining.com
 cookiescript.info
-cpufan.club
 cryptaloot.pro
 crypto-coins.club
 crypto-coins.com
@@ -24626,7 +24631,6 @@ filmoljupci.com
 flare-analytics.com
 freecontent.bid
 freecontent.date
-freecontent.science
 freecontent.stream
 g1thub.com
 gay-hotvideo.net
@@ -24688,7 +24692,6 @@ reauthenticator.com
 rollercoin.com
 rtb-seller.com
 s7ven.com
-seed.bitcoin.jonasschnelli.ch
 seed.bitcoin.sipa.be
 seed.bitcoin.sprovoost.nl
 seed.bitcoin.wiz.biz
@@ -24708,7 +24711,6 @@ supportxmr.com
 sushipool.com
 swiftmining.win
 tmmp.io
-truemine.org
 trustiseverything.de
 trustmeiamapro.de
 turnsocial.com
@@ -24763,6 +24765,7 @@ abc.hearst.co.uk
 acount.alley.ws
 activetracker.activehotels.com
 activities.niagara.comedycentral.com
+ad-shield.io
 ad.aloodo.com
 adfox.yandex.ru
 adlog.com.com
@@ -24781,7 +24784,6 @@ analyticcdn.globalmailer.com
 analytics-cms.whitebeard.me
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
-analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
 analytics-sg.tiktok.com
 analytics.30m.com
@@ -24976,7 +24978,6 @@ d11a2fzhgzqe7i.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
-d1hi41nc56pmug.cloudfront.net
 d1iazwv1n1tsyi.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
 d1n00d49gkbray.cloudfront.net
@@ -25035,7 +25036,6 @@ diagnose.igstatic.com
 dirt.dennis.co.uk
 djibeacon.djns.com
 dl1d2m8ri9v3j.cloudfront.net
-dlvkf5067xruv.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 doppler-reporting.cbsivideo.com
 dotaudiences.com
@@ -25210,7 +25210,6 @@ ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 pings.vidpulse.com
 pipe-collect.ebu.io
-pix.impdesk.com
 pix.revjet.com
 pix.speedbit.com
 pixel-a.basis.net
@@ -25232,7 +25231,6 @@ platform.iteratehq.com
 plausibleio.workers.dev
 pmetrics.performancing.com
 porpoise.azettl.net
-powersearch.us.com
 pr.blogflux.com
 prd-collector-auth.playbuzz.com
 prd-collector-platform.ex.co
@@ -25294,7 +25292,6 @@ stas.outbrain.com
 stat.boredomtherapy.com
 stat.glaze.ai
 stat.moevideo.net
-stat.pladform.ru
 stat.segitek.hu
 stat.web-regie.com
 statistics.tattermedia.com
@@ -25428,7 +25425,6 @@ tracking.customerly.io
 tracking.drsfostersmith.com
 tracking.drum.io
 tracking.edvisors.com
-tracking.ehavior.net
 tracking.fanbridge.com
 tracking.fits.me
 tracking.godatafeed.com
@@ -25455,7 +25451,6 @@ tracking.sembox.it
 tracking.sezzle.com
 tracking.sharplink.us
 tracking.waterfrontmedia.com
-tracking.worldmedia.net
 tracking1.brandmentions.com
 trackla.stackla.com
 traffic.acwebconnecting.com
@@ -25987,7 +25982,6 @@ securite.01net.com
 stat.prsmedia.fr
 stats-dc1.frz.io
 stats-factory.digitregroup.io
-stats.buzzea.com
 stats.ipmgroup.be
 stats.tipser.com
 t.ofsys.com
@@ -26071,7 +26065,6 @@ links.boom.ge
 rum.marquardmedia.hu
 videostat-new.index.hu
 videostat.index.hu
-analytics.bhaskar.com
 analytics.competitoor.com
 analytics00.meride.tv
 audit.shaa.it
@@ -26205,7 +26198,6 @@ g-stats.openhost.es
 hits.eluniversal.com.mx
 mtm.qdqmedia.com
 pixel.zumby.io
-stats.bitban.com
 stats.qdq.com
 stats.sec.telefonica.com
 tag.shopping-feed.com
@@ -26223,7 +26215,6 @@ f-emc.ngsp.gov.vn
 tracking.aita.gov.vn
 
 lyricslocusvaried.com
-viamariller.com
 zcp.zwame.pt
 ads.enrt.eu
 19bk5lo5q2.com
@@ -26344,6 +26335,8 @@ ver-pelis.net
 xclk-integracion.com
 yestorrents.org
 
+verwvy.com
+5xanz2dxcn.ru
 gldlwt.com
 nasrispit.com
 bmddea.com
@@ -31118,6 +31111,7 @@ sv.sheego.de
 azol.de
 twiago.com
 bauernative.com
+chickensaladandads.com
 
 dlads.cn
 7daystodie.cn
@@ -32716,6 +32710,7 @@ h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me
 m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 
+887591.com
 00-gov.cn
 0024aaaa.com
 008844.cc
@@ -35414,6 +35409,11 @@ ggtg8.com
 runkao.net
 stunninglover.com
 watakaw133.xyz
+prfuxl.xyz
+miniholiday.cn
+youlejia.xyz
+doujl.cn
+zhcps.cn
 01tn.cn
 027whht.com
 0316dieroxiemzfjwmapk.xyz
