@@ -60,9 +60,7 @@ https://raw.githubusercontent.com/SoftCreatR/fakerando-domains/main/all.txt
 https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/fake.txt
 https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/kees1958.txt
-https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/multi.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
