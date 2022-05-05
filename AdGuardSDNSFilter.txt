@@ -3130,6 +3130,9 @@ headerbidding.services
 3myad.com
 cdn.234doo.com
 a.b.napiszar.com
+ban.bhol.co.il
+ext.bhol.co.il
+st1.bhol.co.il
 ads.priel.co.kr
 zumads.vrixon.com
 partner.pocketing.tv
@@ -5032,6 +5035,7 @@ ationandasmile.xyz
 ationuctladd.xyz
 ativfteevie.club
 atjigglypuffor.com
+atkmmepquia.com
 atmalinks.com
 atmasroofy.com
 atmetagrossan.com
@@ -5554,6 +5558,7 @@ bestzba.com
 betads.xyz
 betahit.click
 betemolgar.com
+betflippant.com
 betgorebysson.club
 beticithy.com
 betjeyxf.com
@@ -6457,6 +6462,7 @@ chopgunsticker.com
 choplivelychat.com
 chopstick16.com
 chordeez.net
+chosesleptcattish.com
 chottsapocha.com
 choupsee.com
 chpfgx.com
@@ -6602,6 +6608,7 @@ clickorder.today
 clickosmedia.com
 clickpapa.com
 clickperks.info
+clickpromptlyfowl.com
 clickpupbit.com
 clickredirection.com
 clicks4tc.com
@@ -7195,6 +7202,7 @@ d131c7173a.com
 d14b19b49f.com
 d24ak3f2b.top
 d29gqcij.com
+d2e48d0dce.com
 d2fe475c69.com
 d2ship.com
 d4624d2bc2.com
@@ -7683,6 +7691,7 @@ dltinaozs.com
 dlxrlc2ni2.com
 dmlkicqupnjfryv.com
 dmnprx.com
+dmshlhnzvzu.com
 dmvbdfblevxvx.com
 dmxftmoqz.com
 dmzjmp.com
@@ -8095,6 +8104,7 @@ educatiocenter.online
 educivesakti.com
 edvfwlacluo.com
 edxlewni.com
+ee29eaf10d.com
 ee6a35c1eeee.com
 ee8a4dd81b.com
 eecd.xyz
@@ -8260,6 +8270,7 @@ encasedandelionhauled.com
 enceansom.club
 enchantmenthopeless.com
 encirclenorth.com
+encloseddealing.com
 enclosedhelium.com
 encogcfklrcpqw.com
 encouragementsubwayfather.com
@@ -10176,6 +10187,7 @@ hsh51nvkrv.com
 hslpvxrqpg.com
 hsslx.com
 hstpnetwork.com
+hsykicwjl.com
 htalizer.com
 htamaster.com
 htblcwhrnvwhs.xyz
@@ -14042,6 +14054,7 @@ pigamn.com
 pignuwoa.com
 pigtisetdilqsi.com
 pigtre.com
+pikedhelloed.com
 pikeletkiyi.com
 piledarriving.com
 pilgrimarym.club
@@ -14362,6 +14375,7 @@ prakritinfixed.com
 pramdishevelledsquare.com
 praterswhally.com
 prautl.com
+prawnspiritincomparable.com
 prayersitsskid.com
 prayersstingy.com
 prayuserparka.com
@@ -15869,6 +15883,7 @@ scuffleredhead.com
 scuism.com
 sculifinanthools.site
 sculptorshopfiend.com
+scunderqueller.website
 scurfrubicon.com
 scussiago.xyz
 sd5doozry8.com
@@ -17179,6 +17194,7 @@ thuate.com
 thubyjemi.pro
 thudywhamy.com
 thumpssleys.com
+thuqqyggwc.com
 thurag.com
 thurnflfant.com
 thwartcrazyposition.com
@@ -17207,6 +17223,7 @@ tierbignews.com
 tiercelkeyseat.com
 tigerhub.net
 tigerhysteriaspree.com
+tightenmonuments.com
 tightsaturdayi.com
 tightslowingpredictable.com
 tiglesoshi.pro
@@ -17278,6 +17295,7 @@ tmenttoget.com
 tmfkuesmlpto.com
 tmjhdyghjm.com
 tmmapcxvee.com
+tmmkjvphbawgul.com
 tmnlsmvgrkoj.com
 tmqhw.us
 tmrjmp.com
@@ -17754,6 +17772,7 @@ uloprjcy.xyz
 ulourgaz.net
 ulqlckpdpadfpo.com
 ultimowraxle.com
+ultingcoempa.xyz
 ultralove.net
 ultrlove.com
 ultryl.com
@@ -18223,6 +18242,7 @@ virotc.com
 virtuallycoollybarber.com
 visagedbeard.com
 visariomedia.com
+visesi.com
 visiads.com
 visiblegains.com
 visiblemeasures.com
@@ -19212,6 +19232,7 @@ yieldtraffic.com
 yieldx.com
 yifuffbypvps.xyz
 yim3eyv5.top
+yinteukrestina.xyz
 yiopse.com
 yitcmu.com
 yiydtredbofv.com
@@ -19277,6 +19298,7 @@ youngestboyish.com
 youngestdisturbance.com
 youngestsow.com
 youngoutmatchthousand.com
+youngsterbusinessman.com
 your-notice.com
 your0rder.com
 youradexchange.com
@@ -19449,6 +19471,7 @@ ziphentai.com
 ziphoumt.net
 zisboombah.net
 zitaft.com
+zitaptugo.com
 ziwyduke.xyz
 zixivily.com
 zizikagle.com
@@ -21313,6 +21336,7 @@ d25xkbr68qqtcn.cloudfront.net
 d261u4g5nqprix.cloudfront.net
 d26adrx9c3n0mq.cloudfront.net
 d26c6kzavi5zwd.cloudfront.net
+d26p9ecwyy9zqv.cloudfront.net
 d26yfyk0ym2k1u.cloudfront.net
 d27gtglsu4f4y2.cloudfront.net
 d27qffx6rqb3qm.cloudfront.net
@@ -22204,8 +22228,11 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+t.smartverify.pro
+da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 stat.onemob.mobi
 ip.prvtx.net
+avo.app
 unseenreport.com
 pix.hyj.mobi
 libs.aseads.com
@@ -26505,6 +26532,8 @@ d10vy5gom1ed53.cloudfront.net
 um-public-panel-prod.s3.amazonaws.com
 collection-endpoint-prod.herokuapp.com
 collection-endpoint-staging.herokuapp.com
+events.newsroom.bi
+logs.eu-west-1.amazonaws.com
 ampltd.top.gg
 gtm.vanmoof.com
 pc3.vanmoof.com
@@ -28748,6 +28777,7 @@ ymtracking.com
 upoll.umengcloud.com
 utop.umengcloud.com
 analy.qq.com
+api.safegraph.com
 
 2022welcome.com
 520886.xyz
@@ -31352,7 +31382,6 @@ compteur.websiteout.net
 core.unit-sense.net
 e.funnymel.com
 e.viously.com
-events.newsroom.bi
 events.sk.ht
 nws.naltis.com
 offer.slgnt.eu
@@ -31733,8 +31762,11 @@ xclk-integracion.com
 yestorrents.org
 
 major-inpp-code.com
+lenta.sparrow.ru
 stcvhf.com
+xpuqrn.com
 pmi1yarhxx.com
+ztvzfq.com
 heated-app.us
 go.zdos.ru
 ouhastay.net
@@ -39042,6 +39074,7 @@ adrs.sdo.com
 ads.uc.cn
 adx01.com
 aeoprw.cn
+afenx.top
 afj0.com
 afjlb.com
 afrazanna.com
@@ -41843,7 +41876,7 @@ jun01.oss-cn-beijing.aliyuncs.com
 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 wxtp.cdn.bcebos.com
 wzjs1.oss-accelerate.aliyuncs.com
-kohen.biz
+fenfa.biz
 000123456789.online
 000123456789.space
 01tn.cn
@@ -42007,6 +42040,7 @@ kohen.biz
 6shuge.com
 70bhsd.cn
 70fp7880qz.cn
+70we55s.cn
 720fly.club
 73cm.com
 76doyxyw.cn
@@ -42900,7 +42934,10 @@ e-xinnuo.cn
 e0hkzk2.cn
 e34.xyz
 e39.xyz
+e41.xyz
 e47.xyz
+e48.xyz
+e70.xyz
 e9emh.cn
 ea0jlu8jie.cn
 easyjz.com.cn
@@ -43560,6 +43597,7 @@ iehtzdq.cn
 if37.com
 ifil.shop
 ifil.store
+igame2steam.com
 igig87.cn
 ih740.cn
 ihais.com
@@ -43746,6 +43784,7 @@ jmhai.com
 jmqxbeo.cn
 jmulab.cn
 jmypaxioemnf.com
+jmypdkzixne.com
 jmypodeqqf.com
 jn1biifafz.cn
 jncacp.cn
@@ -43922,6 +43961,7 @@ klsadm.com
 kmrcewt.cn
 knaxfbg.cn
 knk95.cn
+kohen.biz
 komi168.com
 komplett.me
 koooa.net
@@ -44038,6 +44078,7 @@ liebian888.site
 lifuguan.cn
 lihailin.vip
 lihong.ltd
+lihongyu.xyz
 lijie1010.top
 likefly.com.cn
 lilith.ink
@@ -44971,6 +45012,7 @@ simastudio.cn
 simon184.cn
 sinabuy.cn
 sincetrade.com
+singledog.fun
 sinotealife.cn
 sinyang.info
 siomyx.cn
@@ -45100,6 +45142,7 @@ sxzx.live
 sxzzhj.com
 sycbbs.com
 sydswxx.com
+sydz.tw
 syjjd.club
 syks.xyz
 sylvia.cloud
@@ -45246,6 +45289,7 @@ top-muse.com
 topazedu.com
 topdoctor.vip
 topn.xyz
+toqrsru.cn
 toshi.top
 totoc.top
 totoh.top
@@ -45630,6 +45674,7 @@ xdnuo.cn
 xdrzdh.cn
 xdwqq.cn
 xeihy.com
+xerhibx.cn
 xflz.xyz
 xfnkds.com
 xfvbs.cn
@@ -45751,6 +45796,7 @@ xshijie.xyz
 xsrypte.cn
 xsspt.vip
 xtb.ink
+xtime.hk
 xubb.xyz
 xuchangmuying.com
 xuenengyoujiaoyu.com
@@ -45828,6 +45874,7 @@ ybnndud.cn
 ybrex.cn
 ybsyyh.com
 ybtianxi.com
+ybxw.shop
 ychbgss.cn
 yckpdr.com
 yclhtech.cn
