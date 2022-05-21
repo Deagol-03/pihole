@@ -20780,6 +20780,7 @@ gfxa.sheetmusicplus.com
 gg.caixin.com
 googleads.github.io
 hbid.ams3.cdn.digitaloceanspaces.com
+im.ov.yahoo.co.jp
 images.dreamhost.com
 images.mylot.com
 img.bluehost.com
@@ -21829,6 +21830,8 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+selphiu.com
+tr.vitals.co
 predataclient.b-cdn.net
 ad-plus.com.tr
 t.cotsta.ru
@@ -23550,9 +23553,7 @@ flashadengine.com
 flcounter.com
 t.flix360.com
 rt.flix360.com
-flixcar.com
 flixfacts.co.uk
-flixfacts.com
 flixsyndication.net
 fluctuo.com
 fluencymedia.com
@@ -26086,6 +26087,8 @@ affex.org
 t.yesware.com
 
 tagman.britishairways.com
+d3plfjw9uod7ab.cloudfront.net
+za.zingnews.vn
 treg.hearstnp.com
 r.miamano.com
 heap.drop.com
@@ -27975,6 +27978,9 @@ int.vaicore.xyz
 int.vlancaa.site
 int.vlancaa.fun
 tok.vaicore.xyz
+stats.fifthstarlabs.io
+collector.doordash.com
+events.iap.unity3d.com
 mobilelog.ws.pho.to
 etl.tindersparks.com
 tags.creditkarma.com
@@ -28570,6 +28576,7 @@ aff-handler.com
 affilired.com
 afftrack.pro
 agentanalytics.com
+agilesrv.com
 agrvt.com
 airserve.net
 aivalabs.com
@@ -28584,7 +28591,6 @@ angorch-cdr7.com
 answerbook.com
 answerscloud.com
 antiblock.info
-antillephone.com
 anytrack.io
 apextag.com
 api64.com
@@ -29342,6 +29348,7 @@ psh.one
 push-ad.com
 push-free.com
 push-house.net
+push7.jp
 pushalert.co
 pushbird.com
 pushengage.com
@@ -30029,6 +30036,7 @@ filament-stats.herokuapp.com
 firebaselogging-pa.googleapis.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
 flashstats.libsyn.com
+flixgvid.flix360.io
 fog.pixual.co
 fourmtagservices.appspot.com
 fp-cdn.azureedge.net
@@ -30521,7 +30529,6 @@ d3kyk5bao1crtw.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
-d3plfjw9uod7ab.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
 d3qfdthu9f51gu.cloudfront.net
 d3qztsm17pgxue.cloudfront.net
@@ -30531,6 +30538,7 @@ d3uvwl4wtkgzo1.cloudfront.net
 dbv0r7a702yve.cloudfront.net
 dc8na2hxrj29i.cloudfront.net
 ddrvjrfwnij7n.cloudfront.net
+de5v6rb80m4j1.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
 dkupaw9ae63a8.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
@@ -30565,8 +30573,10 @@ zvsuhljiha-a.akamaihd.net
 clarium.global.ssl.fastly.net
 dfapvmql-q.global.ssl.fastly.net
 vwonwkaqvq-a.global.ssl.fastly.net
+antillephone.com
 beyondsecurity.com
 cyveillance.com
+geotrust.com
 nsg.symantec.com
 privacy-policy.truste.com
 scanverify.com
@@ -30773,6 +30783,7 @@ afi-b.com
 aid-ad.jp
 amoad.com
 analyticsip.net
+beanscattering.jp
 blogranking.net
 cetlog.jp
 cheqzone.com
@@ -31377,7 +31388,10 @@ ver-pelis.net
 xclk-integracion.com
 yestorrents.org
 
+flashnetic.com
+jcyjly.com
 qhdhtd.com
+9vzzijbj5f.com
 fuyviz.com
 ouo3ophlpm.ru
 wcoeaykv78.ru
@@ -35180,28 +35194,7 @@ habrox.xyz
 mystighty.info
 mineralisasse.site
 
-promotionalads.yahoo.co.jp
-ard.yahoo.co.jp
-ov.yahoo.co.jp
-yeas.yahoo.co.jp
-yads.yahoo.co.jp
-yads.yjtag.yahoo.co.jp
-adf.shinobi.jp
-affiliate.rakuten.co.jp
-hbb.afl.rakuten.co.jp
-hb.afl.rakuten.co.jp
-bizad.nikkeibp.co.jp
-adserve5.nikkeibp.co.jp
-adv.livedoor.com
-ad.gunosy.com
-adapi.gunosy.com
-adntokyo.gunosy.com
-creatives.gunosy.com
-aimg.fc2.com
-media5.fc2.com
-adimp.excite.co.jp
-adimpkwd.excite.co.jp
-adingo.jp.eimg.jp
+fpgbazgezr.online
 gnixtkjsft.online
 andhub.jp
 cross-a.net
@@ -36448,7 +36441,6 @@ yeah1publishing.com
 younetmedia.com
 za.zapps.vn
 za.zingmp3.vn
-za.zingnews.vn
 zalo-ads-240-td.zadn.vn
 zalo-ads-240.zadn.vn
 zalo-ads-480-td.zadn.vn
@@ -38158,6 +38150,7 @@ ctrhfd.top
 ctsywy.com
 cuilongsp.cn
 cxfzw.cn
+cxnroh6u.xyz
 cy-wz.com
 cyacc.com
 cycytea.cn
@@ -38172,6 +38165,7 @@ czsmac.com
 cztanchao.com
 d40.xyz
 d8962a.xyz
+dadilan2.online
 dadjia.com
 dahanedu.com
 daikuanfanli.com
@@ -38255,6 +38249,7 @@ dzletao.com
 dzxwnews.com
 e-demx.com
 e40.xyz
+e49.xyz
 e5af61b2d8c19c16.online
 e7001.com
 e7015.com
@@ -38743,6 +38738,7 @@ le4le.com
 lee2code.com
 leeleo.top
 leletuitui.com
+lencool.cn
 letaojuan68.com
 leztc.com
 lflili.com
@@ -40789,7 +40785,8 @@ jun01.oss-cn-beijing.aliyuncs.com
 shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 wxtp.cdn.bcebos.com
 wzjs1.oss-accelerate.aliyuncs.com
-jk5t7g6.cn
+7aohmul.cn
+x3kxysp.cn
 000123456789.online
 000123456789.space
 01tn.cn
@@ -41271,6 +41268,7 @@ banfs.com
 banfw.com
 banfz.com
 banfzw.cn
+bangbangle.online
 bangdu2.com
 banggongxia.xyz
 bangxin.xyz
@@ -41376,6 +41374,7 @@ betylife.com
 bfjl.ink
 bgelvy.cn
 bgtrtv.top
+bhj699.com
 bhxqyeyy.cn
 bhyddc.com
 bian123.icu
@@ -41757,6 +41756,7 @@ dddwz.cn
 ddeyi.cn
 ddg1277.com
 ddot.xyz
+ddwant.cn
 deskt.cn
 desky.xyz
 destinyfree.hk
@@ -41895,6 +41895,7 @@ e39.xyz
 e41.xyz
 e47.xyz
 e48.xyz
+e6g804q.cn
 e70.xyz
 e9emh.cn
 ea0jlu8jie.cn
@@ -42759,6 +42760,7 @@ jixiby.cn
 jiyuanzixun.com
 jj0453.com
 jjli87.life
+jk5t7g6.cn
 jkleosnfjutme.top
 jktshare.icu
 jkxtd77.com
@@ -43512,6 +43514,7 @@ ntjanyc.cn
 ntppyc.cn
 ntpr.xyz
 ntwaafv.cn
+ntxiru.com
 nuanqipian.pw
 nuoqingck.cn
 nv43.com
@@ -43784,6 +43787,7 @@ qqqmmm.top
 qrfladd.cn
 qrhlgdak.cn
 qscwdv.top
+qsixi.com
 qtrwwov.cn
 qtywnoh.cn
 quanin.xyz
@@ -43818,6 +43822,7 @@ qzy123.ink
 qzyfpfyy.com
 qzyiming.cn
 qzylyp.com
+r3sgtlt.cn
 r3wd6.cn
 r5rl5r.cn
 r890x3.com
@@ -44627,6 +44632,7 @@ wksrx.cn
 wlaoc.cn
 wlbqczk.vip
 wlmhdk.cn
+wlr8yw8.cn
 wltt.xyz
 wlxzzx.cn
 wmbuilr.cn
@@ -44850,6 +44856,7 @@ xqigou.top
 xqiyi.top
 xqtzp.cn
 xqygyp.cn
+xqzzl1l.cn
 xrecord.xyz
 xryrylt.cn
 xs8888.vip
@@ -45028,6 +45035,7 @@ ynevxkx.cn
 ynhuya.cn
 ynmpzs.cn
 ynsyly.com
+ynwsyl.com
 ynyn.shop
 ynzby.cn
 yongshengtongda.com
@@ -45295,6 +45303,7 @@ zl856.cn
 zlin.fun
 zllhtz.cn
 zllnb.top
+zllqoxidate.com
 zllxy.love
 zlys.store
 zmkj.club
