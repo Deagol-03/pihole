@@ -1,4 +1,7 @@
 
+adcarousel.pl
+bmcdn4.com
+cdn.optmn.cloud
 programattik.com
 coccup.com
 agazis.com
@@ -2359,6 +2362,7 @@ november-lax.com
 samsungads.com
 samsungtvads.com
 
+mailderef.mail.com
 d3t3bxixsojwre.cloudfront.net
 dn0qt3r0xannq.cloudfront.net
 champagne.futurecdn.net
@@ -9995,6 +9999,7 @@ indictmentspan.com
 indictoutgain.com
 indigenousvarious.com
 indisancal.com
+indooritalian.com
 induedabusive.casa
 induis.com
 inenau.com
@@ -16234,6 +16239,7 @@ stmixrkwbp.com
 stoakrig.net
 stoashou.net
 stolytipse.com
+stompimp.net
 stonordersity.xyz
 stoolapostlecarbon.com
 stoopcram.com
@@ -18255,6 +18261,7 @@ whootkhankah.com
 whopexesho.pro
 whoseuntruelag.com
 whouledu.com
+whouseem.com
 whoutsog.net
 whowhipi.net
 whozuxoko.com
@@ -19875,6 +19882,7 @@ getscorecash.com
 globsads.com
 goember.com
 gogvo.com
+goload.click
 goodfungame.com
 googletrackmanager.com
 goraps.com
@@ -21817,6 +21825,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+h5.eagllwin.com
 skillfuldrop.com
 clap.blogcms.jp
 ssp.igaw.io
@@ -21836,7 +21845,6 @@ webtrafficsource.com
 feathr.co
 automizely-analytics.com
 metrics.dominos.com.tr
-salesloft.com
 ctags.cn
 gridsumdissector.com
 app-measurement.com
@@ -26139,7 +26147,12 @@ t.yesware.com
 
 tagman.britishairways.com
 piwik.
+w-api.baomoi.com
+za.baomoi.com
+log.baomoi.com
+trackbar.navigator-lxa.mail.com
 p543.inquirer.com
+u939.colgate.com
 cnt.hd21.com
 ubuyanalytics.ubuy.com
 hit.c97.org
@@ -28957,6 +28970,7 @@ gglscr.online
 giddyuptrk.com
 gim.co.il
 glassboxcdn.com
+glia.com
 globalsiteanalytics.com
 gnpge.com
 go2link.net
@@ -29212,6 +29226,7 @@ revhunter.tech
 revoffers.com
 rfr-69.com
 rightmoveanalytics.co.uk
+riskid.security
 rivrai.com
 rktch.com
 rlets.com
@@ -37175,7 +37190,6 @@ log-collector.shopee.vn
 log.anninhthudo.vn
 log.baodatviet.vn
 log.baodauthau.vn
-log.baomoi.com
 log.baonghean.vn
 log.baophapluat.vn
 log.batdongsan.com.vn
@@ -37346,7 +37360,6 @@ webpush.bizfly.vn
 webpush.todo.vn
 webstag.kplus.vn
 widget.kyna.vn
-za.baomoi.com
 zigzag.vn
 016665.com
 016881.com
@@ -38082,6 +38095,7 @@ y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 2077.tech
 21cnbm.com
 50039tk.com
+551vip.xyz
 6399tp.com
 666624.xyz
 666625.xyz
@@ -38103,6 +38117,7 @@ y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 666679.xyz
 666683.xyz
 666684.xyz
+666722.xyz
 69688qp.com
 7080ys.top
 884329.com
@@ -38153,6 +38168,7 @@ csztzc.com
 ctlmufv.cn
 cwphgqu.cn
 cytrd0.site
+czwdzcm.cn
 dabaicai.ink
 daibu.me
 danaoren.shop
@@ -38181,6 +38197,7 @@ fuigixk.cn
 gdls114.com
 gfdh56.site
 gfnormal00aa.com
+gfnormal00ah.com
 gfnormal00aj.com
 gfnormal00ak.com
 gfnormal00an.com
@@ -38199,6 +38216,7 @@ gncunbiw.rest
 gndunbix.rest
 gneunbiy.rest
 gnfunbiz.rest
+gngunbib.rest
 goasdfa.top
 gocyghol.vip
 gogpix.cn
@@ -38240,6 +38258,7 @@ jamierace.com
 jeproadylabs.com
 jintan.fun
 jiulela.ltd
+jphfqq.cn
 jpnbhyba.xyz
 k31bpzf.xyz
 kengi.top
@@ -38297,6 +38316,7 @@ neornad.cn
 nfhtech.com
 nfpplus.com
 nfqhome.com
+nfqtime.com
 nfwtime.com
 nfwvip.com
 nfzplus.com
@@ -38343,6 +38363,8 @@ sliuindy.top
 slivindy.top
 slizindy.top
 smhossi.cn
+smyarlr.cn
+songdongdong.love
 sozdzl.cn
 sueed.love
 supernfq.com
@@ -38356,6 +38378,7 @@ topnfw.com
 trznrug.cn
 tuiquanqiu.cn
 txie.club
+ugkmihh.cn
 uiuspakmn.bar
 unpfqc9.com
 unypud.cn
@@ -38364,6 +38387,7 @@ uu99k.com
 uwdspsh.cn
 uyzdcun.cn
 v34ffs.site
+vdzzauf.cn
 veadmin.com
 very010.com
 vhlret.cn
@@ -38375,6 +38399,7 @@ vueujv.com
 vvpingtai.com
 wangduoduo.pw
 wangjunyan.xyz
+wanyi.pw
 wchh.online
 weicun.xyz
 weimeiwangluo.site
@@ -38399,6 +38424,7 @@ xox9298.com
 xox9325.com
 xpdyqax.cn
 xroqbkk.cn
+xuxjaqp.cn
 xyhfc.xyz
 xyhly.xyz
 xyxhtyy.cn
@@ -38434,10 +38460,8 @@ zsgwed.cn
 zygaoshou888.cn
 zygxy.online
 zzycj.com
-vdzzauf.cn
-czwdzcm.cn
-songdongdong.love
-xuxjaqp.cn
+mywei.love
+gfnormal07ae.com
 000123456789.online
 000123456789.site
 000123456789.space
@@ -44792,6 +44816,7 @@ baiducom.bj.bcebos.com
 cb.baidu.com
 cbjs.baidu.com
 cpro.baidustatic.com
+d3t3z4teexdk2r.cloudfront.net
 darren01.oss-cn-beijing.aliyuncs.com
 drmcmm.baidu.com
 duiwai.baidu.com
