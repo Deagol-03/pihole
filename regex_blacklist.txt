@@ -31,4 +31,5 @@ track(ers?|ing)?
 traff(ic)?
 ^(.+[_.-])?(twitter|twimg|cms-twdigitalassets)\.(co\.)?[^.]+$
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
+watson\..*\.microsoft\.(com|net)
 xhamster
