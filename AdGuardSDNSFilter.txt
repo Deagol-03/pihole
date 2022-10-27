@@ -1,4 +1,8 @@
 
+sonic-ui.highereducation.com
+appalspowters.com
+htthereflewove.xyz
+viaqoo.tech
 hisurnhuh.com
 scentedindication.com
 eiyoatxbrbyu.com
@@ -1412,10 +1416,6 @@ kernh41.com
 hbplatform.com
 affiliate.k4.tinhte.vn
 delivery.senvangvn.com
-
-.n.2.1.js
-.n.2.1.l60.js
-.1.1.1.l80.js
 .3.n.2.1.l50.js
 .3.n.2.2.l30.js
 bmwebm.org
@@ -1541,11 +1541,9 @@ wtm.monitoringservice.co
 xbasfbno.info
 xy.nullrefexcep.com
 jshosting.bid
-freecontent.date
 hostingcloud.download
 freecontent.bid
 freecontent.racing
-freecontent.stream
 mine.torrent.pw
 
 
@@ -2118,6 +2116,7 @@ mine.torrent.pw
 8dc832e7e4.com
 8dfaa2dc76855.com
 8eca555d94.com
+8f28049c79.com
 8ff01bde37db289d5.com
 8gs4unh05aq6.com
 8jay04c4q7te.com
@@ -5429,6 +5428,7 @@ chengaib.net
 cheno3yp5odt7iume.com
 chepsigrade.pro
 cherniy2sviter11j.com
+chestfoollo.one
 chestors.com
 cheumy.com
 chewsrompedhemp.com
@@ -6401,6 +6401,7 @@ dairma.com
 dairyabreast.com
 daischerendragkur.ga
 daisycontroversy.com
+daitoase.com
 daizoode.com
 dakolk.com
 dalarorganic.casa
@@ -7599,6 +7600,7 @@ emlifok.info
 emmermyotic.com
 emolah.com
 emolapnay.com
+emostbeautif.xyz
 emphen.com
 empill.com
 empirelayer.club
@@ -8028,6 +8030,7 @@ faithaiy.com
 faithcollarhook.com
 faithfulfacultativeladder.com
 faithfullyfridge.com
+faitis.com
 fakeallow.com
 fakeerupriser.com
 fakesorange.com
@@ -14242,6 +14245,7 @@ pc1ads.com
 pc2ads.com
 pcdnlt.com
 pclk.name
+pclrwuqv.com
 pcmclks.com
 pctlwm.com
 pctsrv.com
@@ -17453,6 +17457,7 @@ sswqanwnxdmz.com
 ssyajuhvf.com
 st-rdirect.com
 st1net.com
+stabbr.com
 stabilityvatinventory.com
 stackattacka.com
 stadiumembezzlementoil.com
@@ -18623,6 +18628,7 @@ trustyfine.com
 truthfulstem.com
 trybulgingcoefficient.com
 trymynewspirit.com
+trymysadoroh.site
 tryq.xyz
 trytipemo.com
 trzi30ic.com
@@ -19614,6 +19620,7 @@ vt894axs16.com
 vtfdfrxfxktq.xyz
 vth05dse.com
 vubihowhe.com
+vucdmuvavnu.com
 vuclmvrq.xyz
 vudoutch.com
 vueqfdry.com
@@ -22663,6 +22670,7 @@ samsungadhub.com
 ads.yahoo.com
 tsbluebox.com
 vidoplay.com
+d10ce3z4vbhcdd.cloudfront.net
 d10lumateci472.cloudfront.net
 d10lv7w3g0jvk9.cloudfront.net
 d10nkw6w2k1o10.cloudfront.net
@@ -23745,6 +23753,10 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+tracking3.vnncdn.net
+analytics.dap-networks.de
+analytics.algolia.com
+t.360.audion.fm
 withcabin.com
 pixel.ipinfo.io
 f4cebacks.com
@@ -23753,7 +23765,6 @@ serveipqs.com
 insights-collector.newrelic.com
 analytics.126.net
 metrics.userguiding.com
--spiky.clevertap-prod.com
 ptztvpremium.com
 analyticssystems.net
 events.il.fi
@@ -28137,6 +28148,11 @@ t.yesware.com
 
 tagman.britishairways.com
 piwik.
+lists.ccmbg.com
+track-srv.vietnamnet.vn
+stats.zone-telechargement.
+stats.tirexo.blue
+cnt.streamz.ws
 intake-analytics.wikimedia.org
 tracking.univtec.com
 counter.sberbank.ru
@@ -29681,8 +29697,6 @@ stats.wpmucdn.com
 stats.wwd.com
 stats.ynet.co.il
 stats.zmags.com
-stats.zone-telechargement.click
-stats.zone-telechargement.work
 stats01.20min.ch
 stats1.wpmudev.com
 stats2.arstechnica.com
@@ -29712,7 +29726,6 @@ t.cinemablend.com
 t.clic2buy.com
 t.custora.com
 t.dailymail.co.uk
-t.delfi.
 t.dtscdn.com
 t.eharmony.com
 t.frtyi.com
@@ -29869,7 +29882,6 @@ track.ultimate-guitar.com
 track.wattpad.com
 track.wildblue.com
 track.workablemetro.com
-track.zalando.
 track.zappos.com
 track.zomato.com
 trackcommon.hujiang.com
@@ -29953,7 +29965,6 @@ tracking.noen.at
 tracking.nw.de
 tracking.oe24.at
 tracking.olx-st.com
-tracking.olx.
 tracking.oui.sncf
 tracking.performgroup.com
 tracking.pixelfederation.com
@@ -32427,6 +32438,7 @@ logs.vmixcore.com
 lore.circulate.com
 lucid.mjhassoc.com
 lunametrics.wpengine.netdna-cdn.com
+m.stripe.com
 ma.logsss.com
 martech.condenastdigital.com
 mas.nth.ch
@@ -32512,6 +32524,7 @@ px.redgifs.com
 px.spiceworks.com
 pylon.micstatic.com
 qubitanalytics.appspot.com
+r.stripe.com
 reach-id.orbit.tm-awx.com
 realm.hearst3pcc.com
 refer.ccbill.com
@@ -33306,6 +33319,7 @@ x.bloggurat.net
 zs.dhl.de
 affiliation.planethoster.info
 analytics.valiuz.com
+at.360.audion.fm
 btstats.devtribu.fr
 calotag.com
 collect-v6.51.la
@@ -33546,6 +33560,7 @@ f-emc.ngsp.gov.vn
 tracking.aita.gov.vn
 za.zdn.vn
 
+publi.atresmediapublicidad.com
 landings.zcoptry.com
 banners.inforchannel.com.br
 popunder.online
@@ -33749,7 +33764,6 @@ spots.ru
 byevkj.com
 y8lsyibocd.ru
 major-t-code.com
-viaqoo.tech
 chicgar.info
 iwe.ktvgv.com
 mowunai.ru
@@ -37691,7 +37705,6 @@ tcs-asp.net
 partner.become.co.jp
 ladsp.jp
 a-affiliate.net
-solty.biz
 ala.durasite.net
 scottdwebgraphics.com
 p.permalink-system.com
@@ -39394,7 +39407,6 @@ tracking.playzing.g6.zing.vn
 tracking.tv.zing.vn
 tracking.vnncdn.net
 tracking2.vnncdn.net
-tracking3.vnncdn.net
 trk-pcweb.api.zaloapp.com
 urekamedia.com
 v20.cnnd.vn
@@ -40585,7 +40597,6 @@ tkpopup.vn
 toppage.vn
 tr.topdevvn.com
 tracer.concung.com
-track-srv.vietnamnet.vn
 track.adshay.vn
 track.icheck.com.vn
 track.kyna.vn
@@ -42798,6 +42809,25 @@ egnlaigw.fun
 wvubjgl.cn
 udeoenm.cn
 jmged.xyz
+hekcctie.cyou
+7pvk.xyz
+dduu.buzz
+hmjeiak.cn
+underpad.asia
+mrewq.xyz
+qsnignsy.xyz
+kl87n.xyz
+682891.com
+wk4y.cn
+srbzw.cn
+6v6.work
+u0082.com
+bj-gov-cn.website
+wgnlaige.fun
+fedlugk.cn
+innlzrs.cn
+jhgtf.com
+optef.xyz
 000123456789.online
 000123456789.site
 000123456789.space
@@ -43203,7 +43233,6 @@ jmged.xyz
 8zhou.wang
 90158js.com
 910weixin.com
-9136.com
 9191919199.com
 91cy.top
 91eto.xyz
