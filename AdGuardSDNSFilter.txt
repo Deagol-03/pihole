@@ -1123,7 +1123,6 @@ samsungtvads.com
 adtech-prod.nikecloud.com
 newrevive.detik.com
 ad.serv1for.pro
-cdn.aanetwork.vn
 res.adx.opera.com
 ads.rubiconproject.com
 eus.rubiconproject.com
@@ -6632,6 +6631,7 @@ conveniencehotel.com
 conventforgotten.com
 convers.link
 convertsial.com
+conveysvelure.life
 convrse.media
 conyak.com
 coojaiku.com
@@ -6769,6 +6769,7 @@ craharice.com
 craivsyh.com
 crajeon.com
 crakbanner.com
+crantscopart.com
 cratchcfi.com
 craziesrimate.com
 crazyhell.com
@@ -7148,6 +7149,7 @@ ddenknowl.com
 ddhjxakewpp.com
 ddnmzrpp.com
 ddow.xyz
+ddrvjrfwnij7n.cloudfront.net
 ddwdfbsjcfksr.com
 de1cb9e4b1.com
 deaconrandomoptional.com
@@ -7285,6 +7287,7 @@ demeepsi.xyz
 demersekeld.com
 democracyendlesslyzoo.com
 democracyherebyinapptitudeinapptitude.com
+democracysuperintend.com
 democrattransportationirrational.com
 demostens.store
 demurerbewary.live
@@ -7844,6 +7847,7 @@ dsandmaroons.com
 dsfjhfhyry2hh8jo09.com
 dsnextgen.com
 dsnr-affiliates.com
+dsnymrk0k4p3v.cloudfront.net
 dsoodbye.xyz
 dsp.wtf
 dspmulti.com
@@ -8860,6 +8864,7 @@ familyliar.com
 faminedealergirl.com
 famousletterss.online
 famousremainedshaft.com
+fampfage.com
 fanagentmu.pics
 fandelcot.com
 fandmo.com
@@ -9599,6 +9604,7 @@ gashewasf.xyz
 gasolineunityauspice.com
 gaspbandy.com
 gaspcultivateclassroom.com
+gastingitea.com
 gasylicyg1e8n6po.com
 gatetent.com
 gatetocontent.com
@@ -11962,6 +11968,7 @@ kellyfight.com
 kelopronto.com
 kelpmetorealiu.xyz
 kelt-195b.com
+kempitepterin.com
 kenailush.com
 kendosliny.com
 kenduktur.com
@@ -12984,6 +12991,7 @@ mainapiary.com
 mainnewsfuse.com
 mainroll.com
 maiptica.com
+mairbeets.com
 mairunoa.xyz
 maisvznypp.com
 majasgaol.com
@@ -13046,6 +13054,7 @@ maquiags.com
 marapcana.online
 marathongenerositypremiere.com
 marazma.com
+marbct.xyz
 marbil24.co.za
 marblecaution.com
 marchgrinwimp.com
@@ -13498,6 +13507,7 @@ mmismm.com
 mmondi.com
 mmotraffic.com
 mn1nm.com
+mn230126pb.com
 mnbvjhg.com
 mndsrv.com
 mnemicguaza.cam
@@ -16023,6 +16033,7 @@ poufaini.com
 poultryrubbles.com
 poundaroseflight.com
 pourdear.com
+pourersdammer.guru
 poutauge.net
 powerad.ai
 poweradblocker.com
@@ -16124,6 +16135,7 @@ presumptuousfunnelinsight.com
 presumptuouslavish.com
 pretentiouspastelaccuser.com
 prettypasttime.com
+prevailinsolence.com
 preventedcaptivate.com
 preventionbitten.com
 previouslyawokestale.com
@@ -16813,6 +16825,7 @@ rainerspooked.live
 rainierem.com
 rainwealth.com
 rainyautumnnews.com
+raiphoos.com
 raisedmanatee.com
 raisentotic.uno
 rajabets.xyz
@@ -16878,6 +16891,7 @@ ravenousdrawers.com
 rawasy.com
 rawjeansadvertising.com
 rawoarsy.com
+raxfracid.com
 raylnk.com
 rayrecollect.com
 razdvabm.com
@@ -20276,6 +20290,7 @@ tuffetenolize.com
 tugarmyindistinct.com
 tugust.com
 tuitionpancake.com
+tujajnatzbmo.com
 tujourda.net
 tumblebit.com
 tumedhan.com
@@ -21717,6 +21732,7 @@ wootmedia.net
 wopsedoaltuwipp.com
 wopsedoaltuwn.com
 wopsedoaltuwo.com
+wordierkonak.com
 wordlockdown.com
 wordpersonify.com
 wordspeachescolored.com
@@ -21799,6 +21815,7 @@ writerredolasy.club
 writerswhow.biz
 writespruce.com
 writingwhine.com
+writshackman.com
 writtenanonymousgum.com
 writtenlistened.com
 wrkl.xyz
@@ -22507,6 +22524,7 @@ a4g.com
 aa.voice2page.com
 aaddcount.com
 aamapi.com
+aanetwork.vn
 ablenctionalle.info
 abnad.net
 aboutads.quantcast.com
@@ -24675,7 +24693,6 @@ dsb6jelx4yhln.cloudfront.net
 dscex7u1h4a9a.cloudfront.net
 dsh7ky7308k4b.cloudfront.net
 dsie7h4lo9wxu.cloudfront.net
-dsnymrk0k4p3v.cloudfront.net
 dtakdb1z5gq7e.cloudfront.net
 dtmm9h2satghl.cloudfront.net
 dtto8zfzskfoa.cloudfront.net
@@ -24789,6 +24806,9 @@ i2.myapkcdn.in
 c3.myapkcdn.in
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+ads-server.mxplay.com
+mxaserver.mxplay.com
+qqcdnpictest.mxplay.com
 contextualadv.com
 prebid-cache.ifunny.co
 tk0x1.com
@@ -28859,6 +28879,7 @@ visilabs.com
 visilabs.net
 .ay.delivery
 functionalclam.com
+friendlyfold.com
 talltouch.com
 knitstamp.com
 boundlessbrake.com
@@ -29918,6 +29939,8 @@ t.yesware.com
 
 tagman.britishairways.com
 piwik.
+collector.reelevant.com
+scripts-repo.reelevant.com
 analytics.lunaweb.cloud
 analytics.onedio.com
 log-lb.skyperfectv.co.jp
@@ -34795,7 +34818,6 @@ d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d761erxl2qywg.cloudfront.net
 dc8na2hxrj29i.cloudfront.net
-ddrvjrfwnij7n.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
 dkupaw9ae63a8.cloudfront.net
 dl1d2m8ri9v3j.cloudfront.net
@@ -35612,6 +35634,7 @@ ver-pelis.net
 xclk-integracion.com
 yestorrents.org
 
+laimroll.ru
 burningpushing.info
 riamiavid.com
 octolinkcom.me
@@ -42127,6 +42150,7 @@ aowdk.cyou
 aqtcw.cn
 aqylmil.cn
 arejug.xyz
+arks.red
 ascloud.tech
 asdffe22.com
 asoeasy.cn
@@ -42147,8 +42171,10 @@ bgcnhux.cn
 bgjjwl.cn
 bglbsb.cn
 bhduan.xyz
+bhhkmzn.cn
 bhpprfk.cn
 bhulgot.com
+bikannovel.com
 bitu.fun
 bjdqxt.com
 bkisss.com
@@ -42371,6 +42397,7 @@ huiyidui.com
 huiyueting.com
 hvhudp.xyz
 hyfumxc.cn
+hyk9.xyz
 hzcp.fun
 hzhuang.wang
 i-fk.cn
@@ -42413,6 +42440,7 @@ ixelcpo.cn
 izmssk.xyz
 j00x.top
 jbuzacg.cn
+jched3.com
 jcvty.cyou
 jdnlynb.cn
 jfmfmgj.cn
@@ -42442,6 +42470,7 @@ juyqiolna.cyou
 juzwrl.xyz
 jwghphm.cn
 jwgihca.cn
+jwujvjo.cn
 jxjvtr.xyz
 jzzuwdn.cn
 k0lksy.xyz
@@ -42644,6 +42673,7 @@ ppltxv.xyz
 pqjprom.cn
 printsmull.com
 ps123.online
+psvvzb.xyz
 pwcuu.cn
 pxrs6.cn
 qanduan.com
@@ -42847,6 +42877,7 @@ vwvjzd.xyz
 vykeavz.cn
 w80n.fun
 wagepulsate.com
+waking.pro
 wangsf.ltd
 wangyc.club
 wangzhe.cx
@@ -42858,6 +42889,7 @@ wbe4sp.top
 wbqosw.xyz
 wdasa.top
 wdmdejd.cn
+weaquc.xyz
 weieo.cyou
 weighcb.com
 weiqu.cyou
@@ -42885,6 +42917,7 @@ wzrdbwf.cn
 x3a88d.cn
 x3zy2.icu
 x800.top
+xageias.cn
 xbptvaq.cn
 xeiyt.cyou
 xfzaimfq.xyz
@@ -42990,10 +43023,11 @@ zxfas56.com
 zxtkfvm.cn
 zyrwfd.xyz
 zzxmcp.com
-bikannovel.com
-xageias.cn
-weaquc.xyz
-psvvzb.xyz
+dqsrnfg.cn
+wocoqs.xyz
+pcxtvr.xyz
+658bbb.us
+aguterl.cn
 001adafg.xyz
 0024aaaa.com
 004fsdljasd.xyz
