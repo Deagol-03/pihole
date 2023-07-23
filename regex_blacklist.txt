@@ -16,7 +16,7 @@ count(ers?|ing)?
 \.(gay|porn|sexy?|xxx|webcam|cam|tube|adult)$
 (graph|eventcom|samsunghealth|tegrazone|firebase|doubleclick|yimg)
 pixels?
-\.(ru|cn|in|vn|qa|ly|cr|top)$
+\.(ru|cn|in|vn|qa|ly|cr|top|zip)$
 saltlakeprospects
 (sendgrid|skype|cortana|xn--)
 stat(s|istics?)
